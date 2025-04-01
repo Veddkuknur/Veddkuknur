@@ -1,6 +1,6 @@
 <!-- Replace the text placeholders (e.g., Your Name, Your Title, etc.) with your own details -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/YourUsername">Vedd Kuknur</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/YourUsername">Vedd</a></h1>
 
 
 ### About Me
