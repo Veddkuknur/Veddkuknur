@@ -1,7 +1,7 @@
 <!-- GitHub Profile README – Vedd Kuknur -->
 
 <h1 align="center">
-  Hey&nbsp;there&nbsp;<img src="https://raw.githubusercontent.com/veddkuknur/veddkuknur/main/assets/wave.gif" width="30" alt="wave">, I’m
+  Hey&nbsp;there&nbsp;, I’m
   <a href="https://github.com/Veddkuknur">Vedd Kuknur</a>
 </h1>
 
