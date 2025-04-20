@@ -23,7 +23,7 @@
 <div align="center">
 
 #### Cloud / DevOps
-<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"></a>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"       alt="GCP"></a>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"                alt="Docker"></a>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"          alt="Terraform"></a>
