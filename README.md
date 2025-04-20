@@ -39,9 +39,9 @@
         </a>
     </div>
     <br>
-<div align="center">
-### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veddkuknur&layout=compact&theme=transparent)
 </div>
 ---
