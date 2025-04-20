@@ -22,11 +22,6 @@
 
 <div align="center">
 
-#### Cloud / DevOps
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"       alt="GCP"></a>
-<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"                alt="Docker"></a>
-<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"          alt="Terraform"></a>
 
 #### Languages
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"                 alt="Python"></a>
@@ -36,6 +31,12 @@
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"         alt="TypeScript"></a>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"           alt="C++"></a>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"                         alt="Go"></a>
+
+#### Cloud / DevOps
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"       alt="GCP"></a>
+<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"                alt="Docker"></a>
+<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"          alt="Terraform"></a>
 
 #### Frameworks / Databases
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"                   alt="React"></a>
