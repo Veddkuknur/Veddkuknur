@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Veddkuknur.Veddkuknur" target="_blank">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Veddkuknur.Veddkuknur" alt="visitor badge">
+<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=Veddkuknur.Veddkuknur" alt="visitor badge"> -->
   </a>
 </p>
 
