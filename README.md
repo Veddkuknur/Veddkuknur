@@ -13,17 +13,10 @@
 
 ### 👋 About Me
 
-- 🎓 Final‑year **B.Sc. Computing Science (Specialization)** @ **University of Alberta** (graduating May 2025)  
+- 🎓 Final‑year **B.Sc. Computing Science (Specialization)** @ **University of Alberta** (graduating June 2025)  
 - 💻 **Software Developer Intern** @ INVIDI Technologies – ad‑tech backend & cloud infra (May 2024 → present)  
-- 🔬 Past **Research Assistant** – compiler optimizations & MLIR‑based matrix ops  
-- 🛠️ Passionate about compiler design, scalable cloud platforms, and privacy‑preserving ML  
-- 🚀 Actively building my dark‑themed portfolio: <https://veddkuknur.github.io/>
-
-### 🌱 What I’m Working On
-
-- Polishing **Gazprea** (LLVM/MLIR DSL compiler) for open‑source release  
-- Adding scroll‑triggered animations & typewriter effects to my React portfolio  
-- Experimenting with **Local Differential Privacy** in GNNs for my honors project
+- 🔬 Past **Research Assistant** @ **University of Alberta** Experimenting with **Local Differential Privacy** in GNNs
+- 🛠️ Passionate about scalable cloud platforms, privacy‑preserving ML and compiler design.
 
 ### 🧰 Tech Toolbox
 
