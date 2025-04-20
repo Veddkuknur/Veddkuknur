@@ -39,7 +39,7 @@
 
 #### Frameworks / Databases
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"                   alt="React"></a>
-<a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"                    alt="Next.js"></a>
+<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"                    alt="Django"></a>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"         alt="PostgreSQL"></a>
 <a><img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"               alt="MongoDB"></a>
